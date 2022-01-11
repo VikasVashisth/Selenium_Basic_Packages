@@ -3,9 +3,17 @@
 
 ![img.png](img.png)
 
-To Run these Shell Scripts
-open the terminal where the files are present and run:
 
-<img src="https://user-images.githubusercontent.com/img.png">
+### Welcome to Selenium 
 
-`sh ./"name of file".sh`
+Here , you will find various methods that are used in Selenium for searching and Automating the Website for testing.
+To Run these Shell Scripts.
+
+* iframe in Selenium
+* Refresh Methods in Selenium
+* Selenium Basic Installation
+* Send Keys Methods in Selenium
+* Tab Switch Methods in Selenium
+* Waits Methods in Selenium
+* Scripts to install basic requirements to run Selenium scripts.
+
